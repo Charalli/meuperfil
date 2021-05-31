@@ -1,0 +1,66 @@
+body{
+    background-color: #f0f0f0;
+}
+
+#quadro{
+    margin: 50px auto;
+    background-color: #ffffff;
+    width: 700px;
+    height: 1350px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #e2e2e2;
+    border-width: 1px;
+}
+
+img{
+    margin: 30px 0px 20px 250px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+#nome{
+    text-align: center;
+    color: #606060;
+    font-family: Segoe UI;
+    font-size: 23px;
+}
+
+#tabela{
+    margin: 20px 0px 0px 220px;
+    color: #606060;
+    font-family: Segoe UI;
+    font-size: 14px;
+    text-align: left;
+}
+
+#titulo{
+    margin: 20px 0px 0px 50px;
+    font-family: Segoe UI;
+    font-size: 20px;
+    color: #606060;
+    
+}
+
+hr{
+    margin: 5px 50px 0px 50px;
+}
+
+.experiencia{
+    margin: 20px 50px 0px 50px;
+}
+
+p{
+    color: #606060;
+    font-family: Segoe UI;
+    font-size: 14px;
+    text-align: left;
+}
+
+#sub-titulo{
+    color: #095587;
+    font-family: Segoe UI;
+    font-size: 12px;
+    font-weight: bold;
+}
